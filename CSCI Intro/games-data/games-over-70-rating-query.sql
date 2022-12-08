@@ -1,1 +1,0 @@
-SELECT * FROM games WHERE user_rating_count >= 70 ORDER BY user_rating_value DESC;
